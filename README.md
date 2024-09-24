@@ -27,3 +27,4 @@ Selecting Candies page from Categories
 Order Conformation Page 
 ![image](https://github.com/user-attachments/assets/42cc1f09-d484-43cd-be6b-cb7f9fc9500c)
 
+Directly can run the index file after downloaded uploaded flies in folder then the output appers and connected every file to this.
