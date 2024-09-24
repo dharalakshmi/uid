@@ -24,3 +24,6 @@ Selecting Fruits page from Categories
 Selecting Candies page from Categories
 ![image](https://github.com/user-attachments/assets/954f27fd-a23f-4c0a-bd25-b15f1369eadd)
 
+Order Conformation Page 
+![image](https://github.com/user-attachments/assets/42cc1f09-d484-43cd-be6b-cb7f9fc9500c)
+
