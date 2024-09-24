@@ -15,3 +15,12 @@ Reviews
 ![image](https://github.com/user-attachments/assets/ceebaa72-5b8a-4461-8815-451a13abf8f9)
 Blogs
 ![Screenshot 2024-09-24 195033](https://github.com/user-attachments/assets/836aeffa-3f63-4711-9c12-f2fbf0ffcfba)
+
+
+Selecting Vegtables page from Categories
+![image](https://github.com/user-attachments/assets/0362e1c8-52af-4fee-bfd4-f9a0bd43471e)
+Selecting Fruits page from Categories
+![image](https://github.com/user-attachments/assets/3ea6e785-e44f-484d-8ead-c25e34d052f4)
+Selecting Candies page from Categories
+![image](https://github.com/user-attachments/assets/954f27fd-a23f-4c0a-bd25-b15f1369eadd)
+
